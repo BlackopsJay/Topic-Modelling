@@ -12,15 +12,17 @@ CountVectorizer: CountVectorizer is a text preprocessing technique that converts
 BERTopic: BERTopic is a modern topic modelling technique that leverages transformer-based language models such as BERT. It captures semantic relationships between words and documents to generate meaningful topics.
 
 NMF (Non-Negative Matrix Factorization): NMF is a matrix factorization technique that is often used for topic modelling. It factorizes a term-document matrix into two matrices representing term-topic and topic-document relationships.
+
 ## Getting Started
-Clone this repository to your local machine using git clone <repository-url>.
+Clone this repository to your local machine using git clone: gh repo clone BlackopsJay/Topic-Modelling
 Set up your environment with the required libraries listed in the project notebooks.
 Navigate to the notebooks directory and open the notebooks in a Jupyter environment or google collab.
 Follow the step-by-step instructions in each notebook to implement the topic modelling techniques.
 Experiment with different hyperparameters, visualizations, and evaluation methods to refine your results.
 Refer to the notebooks for detailed explanations, code examples, and visualization techniques.
-Dependencies
-Make sure you have the following libraries installed:
+
+##Dependencies
+#Make sure you have the following libraries installed:
 Nltk
 Flair
 Bertopic
